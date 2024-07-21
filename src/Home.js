@@ -35,7 +35,9 @@ const Home = () => {
             .
           </label>
         </p>
-        <img src={sarinnaSung} alt="sarinnaSung" />
+        <p className="pb-10 pl-20">
+          <img src={sarinnaSung} alt="sarinnaSung" />
+        </p>
       </div>
     </div>
   );

@@ -16,13 +16,13 @@ const Navbar = () => {
           </div>
           <div className="flex space-x-4">
             <a
-              href="#/sarinnaSung/"
+              href="/sarinnsSung/#/sarinnaSung"
               className="inline-block py-2 px-4 bg-blue-500 text-white rounded-lg transition duration-300 ease-in-out hover:bg-pink-500 hover:shadow-lg hover:text-white"
             >
               Home
             </a>
             <a
-              href="#/sarinnaSung/Projects"
+              href="/sarinnaSung/#/sarinnaSung/Projects"
               className="inline-block py-2 px-4 bg-blue-500 text-white rounded-lg transition duration-300 ease-in-out hover:bg-pink-500 hover:shadow-lg hover:text-white"
             >
               Projects

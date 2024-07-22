@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from 'react-router-dom';
 
 const Navbar = () => {
   return (
@@ -7,7 +8,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center">
           <div>
             <a
-              href="/sarinnaSung"
+              href="#/sarinnaSung"
               className="text-royal-blue text-2xl font-bold"
             >
               Sarinna Sung
@@ -15,13 +16,13 @@ const Navbar = () => {
           </div>
           <div className="flex space-x-4">
             <a
-              href="/sarinnaSung/"
+              href="#/sarinnaSung/"
               className="inline-block py-2 px-4 bg-blue-500 text-white rounded-lg transition duration-300 ease-in-out hover:bg-pink-500 hover:shadow-lg hover:text-white"
             >
               Home
             </a>
             <a
-              href="/sarinnaSung/Projects"
+              href="#/sarinnaSung/Projects"
               className="inline-block py-2 px-4 bg-blue-500 text-white rounded-lg transition duration-300 ease-in-out hover:bg-pink-500 hover:shadow-lg hover:text-white"
             >
               Projects

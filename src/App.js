@@ -2,17 +2,17 @@ import Navbar from "./Navbar";
 import Home from "./Home";
 import Footer from "./footer";
 import Projects from "./Projects"
-import { BrowserRouter as Router, Route, Routes} from 'react-router-dom';
+import { HashRouter as Router, Route, Routes} from 'react-router-dom';
 
 
 function App() {
   return (
-    <Router>
+    <Router basename="/sarinnaSung">
       <div>
         <Navbar />
         <Routes>
-          <Route path="/sarinnaSung/" element={<Home />} />
-          <Route path="/sarinnaSung/Projects" element={<Projects />} />
+          <Route path="/" element={<Home />} />
+          <Route path="/Projects" element={<Projects />} />
         </Routes>
         <Footer/>
       </div>

@@ -1,5 +1,5 @@
 import React from "react";
-import { Link } from 'react-router-dom';
+import { Link } from "react-router-dom";
 
 const Navbar = () => {
   return (
@@ -7,10 +7,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-64">
         <div className="flex justify-between items-center">
           <div>
-            <a
-              href="#/"
-              className="text-royal-blue text-2xl font-bold"
-            >
+            <a href="#/" className="text-royal-blue text-2xl font-bold">
               Sarinna Sung
             </a>
           </div>

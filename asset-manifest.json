@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sarinnaSung/static/css/main.de01ae3b.css",
-    "main.js": "/sarinnaSung/static/js/main.bed85911.js",
+    "main.js": "/sarinnaSung/static/js/main.250ce17b.js",
     "static/media/sarinnaSung.png": "/sarinnaSung/static/media/sarinnaSung.e80f3846d086493cf40e.png",
     "index.html": "/sarinnaSung/index.html",
     "main.de01ae3b.css.map": "/sarinnaSung/static/css/main.de01ae3b.css.map",
-    "main.bed85911.js.map": "/sarinnaSung/static/js/main.bed85911.js.map"
+    "main.250ce17b.js.map": "/sarinnaSung/static/js/main.250ce17b.js.map"
   },
   "entrypoints": [
     "static/css/main.de01ae3b.css",
-    "static/js/main.bed85911.js"
+    "static/js/main.250ce17b.js"
   ]
 }

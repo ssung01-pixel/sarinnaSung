@@ -16,24 +16,32 @@ const Home = () => {
           >
             New Era Technology
           </a>{" "}
-          as a software engineer, where I work on the customer service
-          enviorment which allows customers service representivies console
-          issues with customers.
+          as a Software Engineer and am under contract with Liberty Mutual. I
+          work on building features and improving efficiency in the Crest Center
+          Section to provide Safeco and Liberty Mutual customer service agents
+          with information about customers' home and auto policies. Apart from
+          coding, our team also focuses on creating threat models, conducting
+          spikes, developing Datadog dashboards, and collaborating to enhance
+          our team's efficiency.
         </p>
         <p className="pb-10">
-          My interests lie in full stack software engineer. Along with my
-          collegues I work to develop frontend applications using tools like
-          React and Javascript for the frontend and GraphQL, Django and SQL for
-          the backend
+          I have a strong interest in full-stack development. Along with my
+          colleagues, I work to develop microfrontend applications using tools
+          like Typescript, SCSS, and GraphQL.
         </p>
-        <p>
-          <label>
+        <p className="pb-10">
+          {/* <label>
             Feel free to check out a copy of my most up-to-date resume{" "}
             <a className="text-blue" href="/">
               here
             </a>
             .
-          </label>
+          </label> */}
+          My hobbies include weightlifting, rock climbing, traveling, food,
+          music, and makeup.
+          <p>
+            I love to learn about anything and everything so please reach out!
+          </p>
         </p>
         <p className="pb-10 pl-20">
           <img src={sarinnaSung} alt="sarinnaSung" />

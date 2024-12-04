@@ -45,8 +45,12 @@ const Home = () => {
             </a>
             .
           </label> */}
-          My hobbies include weightlifting, rock climbing, traveling, food,
-          music, and makeup.
+          My hobbies range from the adrenaline rush of weightlifting and rock
+          climbing to the thrill of exploring new destinations. I savor diverse
+          culinary experiences, revel in the world of music, and express my
+          creativity through makeup. Additionally, I have a keen passion for
+          collecting unique dinnerware and mugs, each piece adding a story to my
+          collection.
           <p>
             I love to learn about anything and everything so please reach out!
           </p>

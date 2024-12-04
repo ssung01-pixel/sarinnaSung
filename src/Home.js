@@ -35,7 +35,7 @@ const Home = () => {
         <p className="pb-10">
           I have a strong interest in full-stack development. Along with my
           colleagues, I work to develop microfrontend applications using tools
-          like Typescript, SCSS, and GraphQL.
+          like Javascript, React, Node.js, GraphQl and Apollo GraphQL
         </p>
         <p className="pb-10">
           {/* <label>

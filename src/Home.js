@@ -22,15 +22,18 @@ const Home = () => {
           with information about customers' home and auto policies. Apart from
           coding, our team also focuses on creating threat models, conducting
           spikes, developing Datadog dashboards, and collaborating to enhance
-          our team's efficiency. As a Software Engineer at New Era Technology,
-          my Computer Science and Statistics foundation from Boston University
-          is critical in developing innovative software solutions. Agile
-          methodologies guide our team's approach, ensuring adaptability and
-          efficiency in our projects. Bridging my academic knowledge with
-          professional expertise, I excel in strategic problem-solving and
-          Microsoft Excel. These competencies, honed through my past role as a
-          Data Architect and experience in project management, drive the success
-          of our team's endeavors at New Era.
+          our team's efficiency.
+          <p>
+            As a Software Engineer at New Era Technology, my Computer Science
+            and Statistics foundation from Boston University is critical in
+            developing innovative software solutions. Agile methodologies guide
+            our team's approach, ensuring adaptability and efficiency in our
+            projects. Bridging my academic knowledge with professional
+            expertise, I excel in strategic problem-solving and Microsoft Excel.
+            These competencies, honed through my past role as a Data Architect
+            and experience in project management, drive the success of our
+            team's endeavors at New Era.
+          </p>
         </p>
         <p className="pb-10">
           I have a strong interest in full-stack development. Along with my

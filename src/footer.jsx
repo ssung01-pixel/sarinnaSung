@@ -5,11 +5,12 @@ import {
   faGithub,
   faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
+import "./css/footer.css"; // Import the CSS file
 
 const Footer = () => {
   return (
-    <footer className="bg-black text-white py-4">
-      <div className="max-w-7xl mx-auto px-4 flex justify-center space-x-6">
+    <footer>
+      <div>
         <a
           href="https://www.linkedin.com/in/sarinnasung/"
           target="_blank"

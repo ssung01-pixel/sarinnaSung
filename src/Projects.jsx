@@ -2,7 +2,7 @@ import React from "react";
 import Card from "./card";
 const Projects = () => {
   return (
-    <div className="py-40 flex flex-col">
+    <div>
       <Card
         title="Munchies"
         body="This web application that allows users to select their preferred restaurants and receive recommended activities in the surrounding area by utilizing Yelp Restaurant API and Decathlon API. Created wireframes, planned use cases, and conducted user testing to ensure a seamless user experience. Languages used: React, Node.js, MySQL"

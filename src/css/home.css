@@ -1,0 +1,64 @@
+.Home {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 2.5rem 0.5rem;
+}
+
+.Home > div {
+  max-width: 700px;
+  width: 100%;
+  padding: 0;
+  margin: 1.5rem 0;
+  background: none;
+  box-shadow: none;
+  border-radius: 0;
+}
+
+.Home p {
+  color: #222;
+  font-size: 1.08rem;
+  line-height: 1.7;
+  margin-bottom: 1.2rem;
+}
+
+.Home a {
+  text-decoration: underline;
+  transition: color 0.2s;
+}
+
+/* Responsive styles */
+@media (max-width: 700px) {
+  .Home > div {
+    padding: 0;
+    max-width: 98vw;
+  }
+  .Home img {
+    max-width: 120px;
+    width: 50vw;
+    margin-top: 1.2rem;
+  }
+  .Home p {
+    font-size: 0.98rem;
+  }
+}
+.Home h1 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #222;
+  margin-bottom: 1.2rem;
+  margin-top: 0;
+  line-height: 1.2;
+}
+
+.Home img {
+  display: block;
+  width: 100%;
+  max-width: 520px;
+  height: auto;
+  object-fit: cover;
+  border-radius: 50%;
+  margin: 2rem auto 0 auto;
+  background: transparent;
+}

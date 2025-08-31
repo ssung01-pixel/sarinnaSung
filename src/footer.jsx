@@ -5,8 +5,7 @@ import {
   faGithub,
   faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
-import "./css/footer.css"; // Import the CSS file
-
+import "./css/footer.css";
 const Footer = () => {
   return (
     <footer>
@@ -15,7 +14,6 @@ const Footer = () => {
           href="https://www.linkedin.com/in/sarinnasung/"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-white text-2xl hover:text-pink-500 transition duration-300"
         >
           <FontAwesomeIcon icon={faLinkedin} />
         </a>
@@ -23,7 +21,6 @@ const Footer = () => {
           href="https://github.com/ssung01-pixel"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-white text-2xl hover:text-pink-500 transition duration-300"
         >
           <FontAwesomeIcon icon={faGithub} />
         </a>
@@ -31,7 +28,6 @@ const Footer = () => {
           href="https://www.instagram.com/sarinnasung/"
           target="_blank"
           rel="noopener noreferrer"
-          className="text-white text-2xl hover:text-pink-500 transition duration-300"
         >
           <FontAwesomeIcon icon={faInstagram} />
         </a>

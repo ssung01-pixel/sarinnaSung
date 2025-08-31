@@ -30,11 +30,6 @@
   transition: color 0.2s;
 }
 
-.navbar-links a:hover {
-  color: #f39c12;
-}
-
-/* Responsive styles */
 @media (max-width: 600px) {
   .navbar-container {
     flex-direction: column;

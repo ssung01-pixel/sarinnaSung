@@ -1,5 +1,5 @@
 
-# Sarinna Sung
+# Sarinna Sung Portfolio Website
 
 # Getting Started with Create React App
 

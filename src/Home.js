@@ -1,5 +1,6 @@
 import sarinnaSung from "../src/sarinnaSung.png";
 import "./css/home.css";
+
 const Home = () => {
   return (
     <div className="Home">

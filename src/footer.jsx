@@ -6,6 +6,7 @@ import {
   faInstagram,
 } from "@fortawesome/free-brands-svg-icons";
 import "./css/footer.css";
+
 const Footer = () => {
   return (
     <footer>

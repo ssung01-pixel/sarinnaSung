@@ -12,6 +12,7 @@ const Home = () => {
             target="_blank"
             href="https://www.neweratech.com/us/"
             rel="noreferrer"
+            style={{ color: "#1976d2" }}
           >
             New Era Technology
           </a>{" "}
